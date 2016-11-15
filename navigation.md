@@ -42,9 +42,9 @@
 [First Steps]()
 
   * [Start Here](pages/firststeps.md)
-  * [NEW Start Here](pages/newfirststeps.md)
   - - - -
-  * [Vagrant](pages/vagrant.md)
+  * [Vagrant (MacOS(X)/Ubuntu)](pages/vagrant.md)
+  * [Vagrant (Windows)](pages/vagrantwin.md)
   * [GitHub and Markdown](pages/githubandmarkdown.md)
   * [BeLL-Apps](pages/bellapps.md)
   * [GitHub Issues](pages/githubissues.md)
@@ -59,6 +59,7 @@
   * [Crowdin Integration](pages/crowdinintegration.md)
   * [Simple Install](pages/simpleinstall.md)
   * [HTML Resources](pages/htmlresources.md)
+  * [Take Home](pages/takehome.md)
 
 [Members](pages/team.md)
 [FAQ](pages/faq.md)
